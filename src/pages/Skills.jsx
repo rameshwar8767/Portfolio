@@ -9,10 +9,10 @@ const skills = [
     icon: Monitor,
     color: "from-cyan-400 to-blue-500",
     items: [
-      { name: "React.js", level: 90 },
-      { name: "JavaScript", level: 85 },
-      { name: "Tailwind CSS", level: 88 },
-      { name: "Redux", level: 80 },
+      { name: "React.js", level: 50 },
+      { name: "JavaScript", level: 70 },
+      { name: "Tailwind CSS", level: 60 },
+      { name: "Redux", level: 40 },
       { name: "HTML / CSS", level: 95 }
     ]
   },
@@ -21,11 +21,11 @@ const skills = [
     icon: Server,
     color: "from-indigo-500 to-purple-600",
     items: [
-      { name: "Node.js", level: 82 },
-      { name: "Express.js", level: 85 },
-      { name: "MongoDB", level: 78 },
-      { name: "REST APIs", level: 90 },
-      { name: "JWT Auth", level: 88 }
+      { name: "Node.js", level: 75 },
+      { name: "Express.js", level: 80 },
+      { name: "MongoDB", level: 70 },
+      { name: "REST APIs", level: 85 },
+      { name: "JWT Auth", level: 60 }
     ]
   },
   {
@@ -33,10 +33,10 @@ const skills = [
     icon: Code,
     color: "from-emerald-500 to-teal-600",
     items: [
-      { name: "JavaScript", level: 90 },
-      { name: "Python", level: 75 },
-      { name: "Java", level: 70 },
-      { name: "SQL", level: 85 }
+      { name: "JavaScript", level: 80 },
+      { name: "Python", level: 50 },
+      { name: "Java", level: 65 },
+      { name: "SQL", level: 60 }
     ]
   },
   {
@@ -44,11 +44,11 @@ const skills = [
     icon: Cloud,
     color: "from-orange-500 to-red-500",
     items: [
-      { name: "Git / GitHub", level: 92 },
-      { name: "Vite", level: 88 },
+      { name: "Git / GitHub", level: 70 },
+      { name: "Vite", level: 75 },
       { name: "AWS", level: 70 },
-      { name: "Docker", level: 60 },
-      { name: "Vercel", level: 85 }
+      { name: "Docker", level: 40 },
+      { name: "Vercel", level: 70 }
     ]
   }
 ];
