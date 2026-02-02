@@ -23,4 +23,12 @@ export const certifications = [
     issuer: "OneRoadmap",
     image: "/certs/one.png",
   },
+  {
+    id: "chaicode",
+    title: "GenAi With Python",
+    subtitle: "Certificate Of Completion",
+    date: "Feb 2026",
+    issuer: "ChaiCode",
+    image: "/certs/genai.png",
+  },
 ];
