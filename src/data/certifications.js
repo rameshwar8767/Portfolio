@@ -1,5 +1,13 @@
 export const certifications = [
   {
+    id: "aws-ccp",
+    title: "AWS Cloud Practitioner",
+    subtitle: "Training & Certification",
+    date: "Feb 2026",
+    issuer: "Amazon Web Services",
+    image: "https://www.credly.com/badges/215d4b84-0295-438a-9613-7af3b3781668/linked_in_profile",
+  },
+  {
     id: "aws",
     title: "AWS Cloud Practitioner Essentials",
     subtitle: "Training & Certification",
